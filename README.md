@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
+- [Melika](https://github.com/Melika-y)`
 - [Amirhosein Shojaei](https://github.com/amirhoseinshojaei)
 - [Ilia Asadi](https://github.com/iliaasadi) :guitar: :coffee:
 - [Reza Heidari :heart_eyes:](https://github.com/rezajax)
